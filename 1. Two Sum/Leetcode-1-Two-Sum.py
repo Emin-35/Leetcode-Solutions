@@ -18,7 +18,7 @@ class Solution:
 def test_twoSum():
     solution = Solution()
 
-    # Test case 1: Standard case with a solution.
+    # Test case 1: Standard case with a solution
     nums = [2, 7, 11, 15]
     target = 9
     result = solution.twoSum(nums, target)
