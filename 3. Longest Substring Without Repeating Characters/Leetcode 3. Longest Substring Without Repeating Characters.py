@@ -22,7 +22,7 @@ class Solution:
 def test_lengthOfLongestSubstring():
     solution = Solution()
 
-    # Test case 1: Standard case with repeating characters
+    # Test case 1: Standard case with repeating characters.
     s = "abcabcbb"
     result = solution.lengthOfLongestSubstring(s)
     assert result == 3, f"Expected 3, but got {result}"
