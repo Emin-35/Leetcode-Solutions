@@ -9,6 +9,7 @@ Notice that you may not slant the container.
 
 
 Example 1:
+![question_11](https://github.com/user-attachments/assets/4697298f-5c18-4272-a9ca-e16610a199e4)
 
 
 Input: height = [1,8,6,2,5,4,8,3,7]
