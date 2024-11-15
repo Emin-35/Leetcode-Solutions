@@ -25,7 +25,7 @@ If the value starts with 4 or 9 use the subtractive form representing one symbol
 
 Only powers of 10 (I, X, C, M) can be appended consecutively at most 3 times to represent multiples of 10. You cannot append 5 (V), 50 (L), or 500 (D) multiple times. If you need to append a symbol 4 times use the subtractive form.
 
-Given an integer, convert it to a Roman numeral.
+Given an integer, convert it to a Roman numeral
 
 Example 1:
 
