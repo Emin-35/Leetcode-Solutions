@@ -51,7 +51,7 @@ The "3Sum" problem asks us to find all unique triplets in the array that sum to 
 4. Continue Until All Valid Triplets Are Found.
 
 # Complexity
-- Time complexity: $$O(𝑛^\2)$$
+- Time complexity: $$O(𝑛^2)$$
     - where 𝑛 is the length of the array. 
     - Sorting takes 𝑂(𝑛log𝑛), 
     - Two-pointer traversal for each element takes 𝑂(𝑛).
