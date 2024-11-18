@@ -3,6 +3,9 @@ Given a string containing digits from 2-9 inclusive, return all possible letter 
 
 A mapping of digits to letters (just like on the telephone buttons) is given below. Note that 1 does not map to any letters.
 
+![1200px-telephone-keypad2svg](https://github.com/user-attachments/assets/d7608523-104c-4019-951d-f5327e0aeecc)
+
+
 Example 1:
 
 Input: digits = "23"
