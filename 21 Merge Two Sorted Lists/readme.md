@@ -5,6 +5,7 @@ Merge the two lists into one sorted list. The list should be made by splicing to
 
 Return the head of the merged linked list.
 
+![merge_ex1](https://github.com/user-attachments/assets/e1e39936-898b-4733-95f6-52a5e6b4f900)
 
 
 Example 1:
