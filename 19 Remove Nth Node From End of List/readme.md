@@ -1,6 +1,8 @@
 # Question
 Given the head of a linked list, remove the nth node from the end of the list and return its head.
 
+![remove_ex1](https://github.com/user-attachments/assets/ce986d18-6a22-4d3e-a1c3-948713808e01)
+
 Example 1:
 
 Input: head = [1,2,3,4,5], n = 2
